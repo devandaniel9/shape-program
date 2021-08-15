@@ -72,7 +72,7 @@ def bola(r):
 
 #Streamlit
 st.write("""# Flat Shape and Round Shape Program""")
-st.write('** Made by Devan Daniel Nainggolan **')
+st.write('** Made by Devan Daniel Nainggolan - PBKM Eagle School **')
 st.write('')
 st.write('## **Input Variabel**')
 
